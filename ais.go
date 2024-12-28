@@ -3,7 +3,7 @@ package main
 import "fmt"          // std package
 import "rsc.io/quote" // https://pkg.go.dev 
 
-//import "vlib1"   // local packages via "replace" - from my catalog for projects_
+//import "vlib1"   // local packages via "replace" - from my catalog for projects__
 
 func main() {
 
