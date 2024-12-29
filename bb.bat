@@ -1,3 +1,5 @@
+go get -u
+rem go get -u=patch
 
 go mod tidy -v 
 go build -o ais.exe ais.go 2>er.txt
