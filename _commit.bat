@@ -1,6 +1,8 @@
+set VTAG=v1.4.0
+
 git add -A
-git commit -m "Third commit"
+git commit -m "%VTAG% commit"
 git push
 
-git tag -a "v1.3.0" -m "Third tag"
-git push origin "v1.3.0"
+git tag -a "%VTAG%" -m "version tag"
+git push origin "%VTAG%"

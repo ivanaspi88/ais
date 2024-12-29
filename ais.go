@@ -1,9 +1,9 @@
 package main
 
-import "fmt"          // std package
-import "rsc.io/quote" // https://pkg.go.dev 
+import "fmt"           // std package
+import "rsc.io/quote" 
 
-//import "vlib1"   // local packages via "replace" - from my catalog for projects__
+import "github.com/ivanaspi88/vlib"  
 
 func main() {
 
@@ -11,7 +11,7 @@ func main() {
 
   fmt.Println(quote.Go())       // ext module  "rsc.io/quote"
 
-  //var a int = vlb1.Vad(2,3)   // local package "vlb1" from LIB1 catalog
-  //fmt.Println("Sum1 =",a)
+  var a int = vlib.Vad(2,3)   
+  fmt.Println("Sum vlib =",a)
 }
 

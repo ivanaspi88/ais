@@ -1,0 +1,11 @@
+
+D:\NN\PS\AIS>go mod tidy -v  
+
+D:\NN\PS\AIS>go build -o ais.exe ais.go  2>er.txt 
+
+D:\NN\PS\AIS>echo 1 
+1
+Error!
+ais.go:6:8: no required module provides package github.com/ivanaspi88/vlib; to add it:
+	go get github.com/ivanaspi88/vlib
+Для продолжения нажмите любую клавишу . . . 
