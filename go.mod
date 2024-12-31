@@ -5,7 +5,7 @@ go 1.23.4
 replace github.com/ivanaspi88/vlib => D:/NN/LB/VLIB
 
 require (
-	github.com/ivanaspi88/vlib v1.2.7
+	github.com/ivanaspi88/vlib v1.2.11
 	rsc.io/quote v1.5.2
 )
 
