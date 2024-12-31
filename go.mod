@@ -2,10 +2,10 @@ module ais
 
 go 1.23.4
 
-replace github.com/ivanaspi88/vlib => D:/NN/PS/VLIB
+replace github.com/ivanaspi88/vlib => D:/NN/LB/VLIB
 
 require (
-	github.com/ivanaspi88/vlib v1.2.6
+	github.com/ivanaspi88/vlib v1.2.7
 	rsc.io/quote v1.5.2
 )
 
