@@ -1,3 +1,5 @@
+github.com/ivanaspi88/vlib v1.2.13 h1:aMpTVyePcE30PqZjwq8QnOnh/NekrpR+PzN1Gc+/Weg=
+github.com/ivanaspi88/vlib v1.2.13/go.mod h1:3utgqW61lB5mi6lmngfJMhVb4OOEIEKAvP/j0jiUgNk=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.21.0 h1:zyQAAkrwaneQ066sspRyJaG9VNi/YJ1NfzcGB3hZ/qo=
 golang.org/x/text v0.21.0/go.mod h1:4IBbMaMmOPCJ8SecivzSH54+73PCFmPWxNTLm+vZkEQ=
