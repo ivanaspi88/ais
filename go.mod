@@ -10,7 +10,7 @@ replace github.com/ivanaspi88/vlib => D:/NN/LB/VLIB
 //replace github.com/ivanaspi88/dbf  => D:/NN/LB/dbf
 
 require (
-	github.com/ivanaspi88/vlib v1.2.14
+	github.com/ivanaspi88/vlib v1.2.16
 	rsc.io/quote v1.5.2
 )
 
